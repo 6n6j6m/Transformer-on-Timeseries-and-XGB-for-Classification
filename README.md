@@ -1,4 +1,4 @@
-# Transformer Architecture Learning Journey
+# Transformer Architecture Learning
 
 Repositori ini berisi catatan perjalanan belajar saya dalam memahami **Transformer Architecture**.
 
